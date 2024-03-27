@@ -1,4 +1,4 @@
-# Tarea1_acus099
+# Tareas acus099
 ## Integrantes:
-+ Kamila
-+ Valentina
++ Kamila Gamboa
++ Valentina Valderas
