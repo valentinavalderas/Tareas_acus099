@@ -8,7 +8,8 @@
 > + Crear usuario en GitHub.
 > + Aprender a usar Markdown
 ## Referencias
-> + [GitHub](https://github.com/valentinavalderas/Tareas_acus099)
-> + [Visual Studio Code](https://code.visualstudio.com/)
 > + [Git](https://git-scm.com/)
+> + [GitHub](https://github.com/valentinavalderas/Tareas_acus099)
 > + [Markdown](https://markdown.es/)
+> + [Miniconda](https://docs.anaconda.com/free/miniconda/index.html)
+> + [Visual Studio Code](https://code.visualstudio.com/)
