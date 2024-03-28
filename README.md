@@ -8,3 +8,4 @@
 > + Además, se creó usuario en GitHub.
 ## Referencias
 > + [GitHub](https://github.com/valentinavalderas/Tareas_acus099)
+> + [Visual Studio Code](https://code.visualstudio.com/)
